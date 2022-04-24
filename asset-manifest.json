@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/perspective/static/css/main.35493d5c.css",
-    "main.js": "/perspective/static/js/main.2b511395.js",
+    "main.css": "/perspective/static/css/main.9652f09d.css",
+    "main.js": "/perspective/static/js/main.d539d66a.js",
     "static/media/sponser-demo.png": "/perspective/static/media/sponser-demo.17679479fed66b89e04f.png",
+    "static/media/prespective.PNG": "/perspective/static/media/prespective.9007a627f0825831772c.PNG",
     "static/media/PERS.png": "/perspective/static/media/PERS.a5282683c99681ad2b27.png",
     "static/media/pec-logo.png": "/perspective/static/media/pec-logo.b38b966e43a9e4a925cc.png",
     "index.html": "/perspective/index.html",
-    "main.35493d5c.css.map": "/perspective/static/css/main.35493d5c.css.map",
-    "main.2b511395.js.map": "/perspective/static/js/main.2b511395.js.map"
+    "main.9652f09d.css.map": "/perspective/static/css/main.9652f09d.css.map",
+    "main.d539d66a.js.map": "/perspective/static/js/main.d539d66a.js.map"
   },
   "entrypoints": [
-    "static/css/main.35493d5c.css",
-    "static/js/main.2b511395.js"
+    "static/css/main.9652f09d.css",
+    "static/js/main.d539d66a.js"
   ]
 }
