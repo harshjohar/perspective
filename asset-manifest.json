@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/perspective/static/css/main.bb261fff.css",
-    "main.js": "/perspective/static/js/main.1658643c.js",
+    "main.css": "/perspective/static/css/main.b8bb0a85.css",
+    "main.js": "/perspective/static/js/main.17ddbc49.js",
+    "static/media/sponser-demo.png": "/perspective/static/media/sponser-demo.17679479fed66b89e04f.png",
+    "static/media/PERS.png": "/perspective/static/media/PERS.a5282683c99681ad2b27.png",
     "static/media/pec-logo.png": "/perspective/static/media/pec-logo.b38b966e43a9e4a925cc.png",
     "index.html": "/perspective/index.html",
-    "main.bb261fff.css.map": "/perspective/static/css/main.bb261fff.css.map",
-    "main.1658643c.js.map": "/perspective/static/js/main.1658643c.js.map"
+    "main.b8bb0a85.css.map": "/perspective/static/css/main.b8bb0a85.css.map",
+    "main.17ddbc49.js.map": "/perspective/static/js/main.17ddbc49.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb261fff.css",
-    "static/js/main.1658643c.js"
+    "static/css/main.b8bb0a85.css",
+    "static/js/main.17ddbc49.js"
   ]
 }
