@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.37d38cdf.css",
-    "main.js": "/static/js/main.6bdf263f.js",
+    "main.js": "/static/js/main.c18a26c5.js",
     "static/media/pers-logo-new.png": "/static/media/pers-logo-new.0ab0b33549221e1c571a.png",
     "static/media/sponser-demo.png": "/static/media/sponser-demo.17679479fed66b89e04f.png",
     "static/media/PERS.png": "/static/media/PERS.a5282683c99681ad2b27.png",
     "static/media/pec-logo.png": "/static/media/pec-logo.b38b966e43a9e4a925cc.png",
     "index.html": "/index.html",
     "main.37d38cdf.css.map": "/static/css/main.37d38cdf.css.map",
-    "main.6bdf263f.js.map": "/static/js/main.6bdf263f.js.map"
+    "main.c18a26c5.js.map": "/static/js/main.c18a26c5.js.map"
   },
   "entrypoints": [
     "static/css/main.37d38cdf.css",
-    "static/js/main.6bdf263f.js"
+    "static/js/main.c18a26c5.js"
   ]
 }
